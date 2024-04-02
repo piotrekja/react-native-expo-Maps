@@ -1,0 +1,143 @@
+[
+  {
+    "cityName": "Warszawa",
+    "latitude": 52.229847,
+    "longitude": 21.011751,
+    "latitudeDelta": 0.05,
+    "longitudeDelta": 0.03,
+    "locations": [
+      {
+        "latitude": 52.24,
+        "longitude": 21.014,
+        "name": "Warszawa 12",
+        "address": "Nizińskiego 17",
+        "openHours": "pn-pt 9:00 - 17:00"
+      },
+      {
+        "latitude": 52.229,
+        "longitude": 20.99,
+        "name": "Warszawa 2",
+        "address": "Miedziana 47",
+        "openHours": "pn-pt 9:00 - 17:00"
+      },
+      {
+        "latitude": 52.233126,
+        "longitude": 21.026,
+        "name": "Warszawa 31",
+        "address": "Smolna 7b",
+        "openHours": "pn-pt 9:00 - 17:00"
+      },
+      {
+        "latitude": 52.221,
+        "longitude": 21.016,
+        "name": "Warszawa 9",
+        "address": "Waryńskiego 132",
+        "openHours": "pn-pt 9:00 - 17:00"
+      }
+    ]
+  },
+  {
+    "cityName": "Gdańsk",
+    "latitude": 54.391,
+    "longitude": 18.66,
+    "latitudeDelta": 0.04,
+    "longitudeDelta": 0.02,
+    "locations": [
+      {
+        "latitude": 54.384,
+        "longitude": 18.651,
+        "name": "Gdańsk 5",
+        "address": "Wilelopole 10",
+        "openHours": "pn-pt 9:00 - 17:00"
+      },
+      {
+        "latitude": 54.399,
+        "longitude": 18.662,
+        "name": "Gdańsk 8",
+        "address": "Wyzwolenia 44",
+        "openHours": "pn-pt 9:00 - 17:00"
+      },
+      {
+        "latitude": 54.391,
+        "longitude": 18.665,
+        "name": "Gdańsk 1",
+        "address": "Chodackiego 24",
+        "openHours": "pn-pt 9:00 - 17:00"
+      }
+    ]
+  },
+  {
+    "cityName": "Poznań",
+    "latitude": 52.408138,
+    "longitude": 16.928174,
+    "latitudeDelta": 0.04,
+    "longitudeDelta": 0.025,
+    "locations": [
+      {
+        "latitude": 52.419,
+        "longitude": 16.918,
+        "name": "Poznań 4",
+        "address": "Pułaskiego 52",
+        "openHours": "pn-pt 9:00 - 17:00"
+      },
+      {
+        "latitude": 52.409,
+        "longitude": 16.938,
+        "name": "Poznań 7",
+        "address": "Garbary 5",
+        "openHours": "pn-pt 9:00 - 17:00"
+      },
+      {
+        "latitude": 52.403,
+        "longitude": 16.92,
+        "name": "Poznań 13",
+        "address": "Matyi 54",
+        "openHours": "pn-pt 9:00 - 17:00"
+      },
+      {
+        "latitude": 52.395,
+        "longitude": 16.93,
+        "name": "Poznań 5",
+        "address": "Droga Dębińska 12",
+        "openHours": "pn-pt 9:00 - 17:00"
+      }
+    ]
+  },
+  {
+    "cityName": "Kraków",
+    "latitude": 50.060178,
+    "longitude": 19.946236,
+    "latitudeDelta": 0.04,
+    "longitudeDelta": 0.025,
+    "locations": [
+      {
+        "latitude": 50.069,
+        "longitude": 19.937,
+        "name": "Kraków 5",
+        "address": "Biskupia 8",
+        "openHours": "pn-pt 9:00 - 17:00"
+      },
+      {
+        "latitude": 50.0665,
+        "longitude": 19.962,
+        "name": "Kraków 7",
+        "address": "Mogliska 142",
+        "openHours": "pn-pt 9:00 - 17:00"
+      },
+      {
+        "latitude": 50.06,
+        "longitude": 19.965,
+        "name": "Kraków 12",
+        "address": "Aleja Pokoju 75",
+        "openHours": "pn-pt 9:00 - 17:00"
+      },
+      {
+        "latitude": 50.049,
+        "longitude": 19.939,
+        "name": "Kraków 9",
+        "address": "Dietla 53",
+        "openHours": "pn-pt 9:00 - 17:00"
+      }
+    ]
+  }
+]
